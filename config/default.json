@@ -1,0 +1,6 @@
+{
+    "dbConnection": "mongodb://localhost:27017/elearning_DB",
+    "mode": "Default",
+    "jwtSecretKey": "elearning_jwtkey",
+    "staticFileUploadingBasePath": "public/"
+}

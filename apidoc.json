@@ -1,0 +1,8 @@
+{
+    "name": "E-Learning API documentation",
+    "version": "1.0.0",
+    "description": "The E-Learning App",
+    "template": {
+        "forceLanguage": "en"
+    }
+}

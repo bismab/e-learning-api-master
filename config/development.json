@@ -1,0 +1,8 @@
+{
+    "dbConnection": "mongodb://localhost:27017/elearning_DB",
+    "mode": "Development",
+    "jwtSecretKey": "elearning_jwtkey",
+    "site_address":"http://45.32.137.78/e-learning-dashboard",
+    "staticFileUploadingBasePath": "public/",
+    "SENDGRID_API_KEY": "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"
+}
